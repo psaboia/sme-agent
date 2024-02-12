@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "sme-agent"
+  site-url: "https://nd-crane.github.io/sme-agent"
+  description: "Prototype for a subject matter surrogate agent"
+  repo-branch: main
+  repo-url: "https://github.com/nd-crane/sme-agent"
