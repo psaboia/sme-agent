@@ -11,7 +11,6 @@ on:
 jobs:
   deploy:
     runs-on: ubuntu-latest
-    steps: 
-    - uses: fastai/workflows/quarto-ghp@master
-      with: 
-        version: '3.11'    
+    steps:
+      - uses: fastai/workflows/quarto-ghp@master
+#         with: {pre: 1}
